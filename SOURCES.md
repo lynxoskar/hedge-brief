@@ -68,3 +68,8 @@ Fed decision market (kalshi.com/markets/kxfeddecision), S&P/Nasdaq range markets
 ## Required daily sources (check every edition)
 - **Bloomberg:** bloomberg.com/markets; X @business (active), @BloombergTV (active), @TheTerminal (active); @markets and @BloombergAsia exist but quiet since ~Aug 2026 (check, do not rely). YouTube: Bloomberg Television UCIALMKvObZNtJ6AmdCLP7Lg incl. The Asia Trade, Odd Lots, The China Show.
 - **Goldman Sachs:** goldmansachs.com/insights incl. Market Pulse, Top of Mind, Hedge Fund Trend Monitor and The Markets podcast; YouTube Goldman Sachs UCyz6-taovlaOkPsPtK4KNEg; X @GoldmanSachs (active). PB weekly notes are paywalled: cite only public GS pages or reputable reports of them.
+
+## Crypto & crypto equities (X verification PENDING: X API rate-limited 2026-10-12 08:40; verify before relying)
+Candidates: @FarsideUK (ETF flows), @EricBalchunas / @JSeyff (Bloomberg ETF analysts), @tier10k (fast headlines, confirm), @WuBlockchain (Asia/China crypto), @CoinDesk, @TheBlock__, @glassnode (on-chain), @BitMEXResearch, @Blockworks_, @KaikoData (market structure), @coinglass_com (funding/OI/liquidations), @matthew_sigel (VanEck), @nic__carter, @lookonchain (whale tracking, ALWAYS unconfirmed), @KobeissiLetter (verified, already core).
+Web: farside.co.uk, sosovalue.com, coindesk.com, theblock.co, tftc.io/bitcoin-etf-flows, sec.gov/crypto, esma (MiCA), sfc.hk VA licensing, fsa.go.jp.
+YouTube: no high-quality crypto-specific channel found via TubeAlfred (results were mostly low-quality price-prediction channels); use Bloomberg Television.
