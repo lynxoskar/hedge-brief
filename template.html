@@ -1,0 +1,19 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Hedge Brief · {{DATE}}</title><link rel="stylesheet" href="../style.css?v=1"></head><body><main>
+<header class="topbar"><a class="brand" href="../">Oskar's Hedge Brief</a><a href="../">&larr; All briefs</a></header>
+<div class="masthead"><div class="kicker">{{DATE_LONG}}</div><h1>{{HEADLINE}}</h1></div>
+<div class="kicker">Top stories</div>
+<section class="hero">
+<!-- STORY class: us|eu|hk|jp|ls|reg --><article class="story {{S1_CLASS}}"><span class="chip">{{S1_LABEL}}</span><h3>{{S1_HEADLINE}}</h3><p>{{S1_WHY}}</p><a href="{{S1_URL}}">{{S1_SOURCE}} &rarr;</a></article>
+<!-- repeat S2..S4 -->
+</section>
+<section class="area us"><h2><span class="chip">US</span>US market</h2><ul>{{US_ITEMS}}</ul></section>
+<section class="area eu"><h2><span class="chip">Europe</span>Europe market</h2><ul>{{EU_ITEMS}}</ul></section>
+<section class="area hk"><h2><span class="chip">HK</span>Hong Kong</h2><ul>{{HK_ITEMS}}</ul></section>
+<section class="area jp"><h2><span class="chip">Tokyo</span>Tokyo</h2><ul>{{JP_ITEMS}}</ul></section>
+<section class="area ls"><h2><span class="chip">L/S</span>Long/short &amp; hedge fund flows</h2><ul>{{LS_ITEMS}}</ul></section>
+<section class="area reg"><h2><span class="chip">Reg</span>Regulation &amp; legislation</h2><h4>US</h4><ul>{{REG_US}}</ul><h4>Europe</h4><ul>{{REG_EU}}</ul><h4>Asia</h4><ul>{{REG_ASIA}}</ul></section>
+<section class="area acc"><h2><span class="chip">X</span>From the accounts you follow</h2><ul>{{ACC_ITEMS}}</ul></section>
+<section class="area pot"><h2><span class="chip">New</span>New potentials</h2><ul>{{POT_ITEMS}}</ul></section>
+<p class="note">{{NOTES}}</p>
+<footer><a href="../">&larr; All briefs</a></footer></main></body></html>
