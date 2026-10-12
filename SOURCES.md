@@ -64,3 +64,7 @@ Fed decision market (kalshi.com/markets/kxfeddecision), S&P/Nasdaq range markets
 
 ## Core follows (permanent)
 @S3Partners, @Hedgefundalpha, Goldman Sachs YouTube (UCyz6-taovlaOkPsPtK4KNEg). All verified active 2026-10-12.
+
+## Required daily sources (check every edition)
+- **Bloomberg:** bloomberg.com/markets; X @business (active), @BloombergTV (active), @TheTerminal (active); @markets and @BloombergAsia exist but quiet since ~Aug 2026 (check, do not rely). YouTube: Bloomberg Television UCIALMKvObZNtJ6AmdCLP7Lg incl. The Asia Trade, Odd Lots, The China Show.
+- **Goldman Sachs:** goldmansachs.com/insights incl. Market Pulse, Top of Mind, Hedge Fund Trend Monitor and The Markets podcast; YouTube Goldman Sachs UCyz6-taovlaOkPsPtK4KNEg; X @GoldmanSachs (active). PB weekly notes are paywalled: cite only public GS pages or reputable reports of them.
