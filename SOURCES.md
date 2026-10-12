@@ -61,3 +61,6 @@ Goldman Sachs UCyz6-taovlaOkPsPtK4KNEg (The Markets, PB commentary); Bloomberg T
 
 ## Kalshi
 Fed decision market (kalshi.com/markets/kxfeddecision), S&P/Nasdaq range markets; use for rate odds.
+
+## Core follows (permanent)
+@S3Partners, @Hedgefundalpha, Goldman Sachs YouTube (UCyz6-taovlaOkPsPtK4KNEg). All verified active 2026-10-12.

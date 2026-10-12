@@ -28,3 +28,8 @@ footer{margin-top:28px;padding-top:12px;border-top:1px solid var(--line)}
 .bcard .d{color:var(--y);font:600 .8rem ui-monospace,monospace}.bcard .h{font-weight:700;margin-top:4px;color:#fff}
 .legend{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}
 @media (max-width:600px){main{padding:14px 12px 40px}.area{padding:4px 12px 10px}}
+#mclock{position:sticky;top:0;z-index:10;display:flex;gap:6px;overflow-x:auto;background:#000;border-bottom:1px solid var(--y);padding:6px 10px;font:12px/1.35 ui-monospace,Menlo,monospace;scrollbar-width:thin}
+.mc{flex:0 0 auto;min-width:118px;background:#0d0d0d;border:1px solid var(--line);border-left:3px solid #555;border-radius:4px;padding:3px 7px;display:flex;flex-direction:column}
+.mc b{color:var(--y);font-size:11px}.mc span{color:#f2f2f2}.mc i{font-style:normal;font-weight:700;font-size:11px;text-transform:uppercase}
+.mc.open{border-left-color:#3ddc84}.mc.open i{color:#3ddc84}.mc.pre i,.mc.lunch i{color:var(--eu)}.mc.pre,.mc.lunch{border-left-color:var(--eu)}.mc.closed i{color:#888}
+.mc.me{border-left-color:var(--y);background:#1a1600}
