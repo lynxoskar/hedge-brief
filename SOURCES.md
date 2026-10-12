@@ -69,7 +69,25 @@ Fed decision market (kalshi.com/markets/kxfeddecision), S&P/Nasdaq range markets
 - **Bloomberg:** bloomberg.com/markets; X @business (active), @BloombergTV (active), @TheTerminal (active); @markets and @BloombergAsia exist but quiet since ~Aug 2026 (check, do not rely). YouTube: Bloomberg Television UCIALMKvObZNtJ6AmdCLP7Lg incl. The Asia Trade, Odd Lots, The China Show.
 - **Goldman Sachs:** goldmansachs.com/insights incl. Market Pulse, Top of Mind, Hedge Fund Trend Monitor and The Markets podcast; YouTube Goldman Sachs UCyz6-taovlaOkPsPtK4KNEg; X @GoldmanSachs (active). PB weekly notes are paywalled: cite only public GS pages or reputable reports of them.
 
-## Crypto & crypto equities (X verification PENDING: X API rate-limited 2026-10-12 08:40; verify before relying)
-Candidates: @FarsideUK (ETF flows), @EricBalchunas / @JSeyff (Bloomberg ETF analysts), @tier10k (fast headlines, confirm), @WuBlockchain (Asia/China crypto), @CoinDesk, @TheBlock__, @glassnode (on-chain), @BitMEXResearch, @Blockworks_, @KaikoData (market structure), @coinglass_com (funding/OI/liquidations), @matthew_sigel (VanEck), @nic__carter, @lookonchain (whale tracking, ALWAYS unconfirmed), @KobeissiLetter (verified, already core).
+## Crypto & crypto equities (X verified 2026-10-12 18:05 CEST; exists + posted within ~2 weeks unless noted)
+| Handle | Name | Why | Region |
+|---|---|---|---|
+| @FarsideUK | Farside Investors | US spot BTC/ETH ETF daily/weekly flows | Global |
+| @EricBalchunas | Eric Balchunas (Bloomberg) | ETF structure, flows, filings | US |
+| @JSeyff | James Seyffart (Bloomberg) | ETF/crypto filings and flows | US |
+| @WuBlockchain | Wu Blockchain | Asia/China crypto news (confirm) | Asia |
+| @CoinDesk | CoinDesk | Crypto markets and policy | Global |
+| @TheBlockCo | The Block | Crypto news, research, data | Global |
+| @glassnode | glassnode | On-chain metrics | Global |
+| @Blockworks | Blockworks | Crypto research and data | Global |
+| @KaikoData | Kaiko | Crypto market structure / venue data | Global |
+| @coinglass_com | CoinGlass | Funding, OI, liquidations | Global |
+| @matthew_sigel | Matthew Sigel (VanEck) | Digital assets research | US |
+| @nic_carter | nic carter | Crypto commentary (opinionated) | Global |
+| @lookonchain | Lookonchain | Whale/on-chain alerts (ALWAYS unconfirmed) | Global |
+| @KobeissiLetter | Kobeissi Letter | Already core; markets charts | US |
+
+Rejected / wrong handle: @TheBlock__ and @Blockworks_ and @nic__carter (typos; use @TheBlockCo, @Blockworks, @nic_carter). @tier10k last posted ~Mar 2026 (stale). @BitMEXResearch is protected with no public followers (unusable).
+
 Web: farside.co.uk, sosovalue.com, coindesk.com, theblock.co, tftc.io/bitcoin-etf-flows, sec.gov/crypto, esma (MiCA), sfc.hk VA licensing, fsa.go.jp.
 YouTube: no high-quality crypto-specific channel found via TubeAlfred (results were mostly low-quality price-prediction channels); use Bloomberg Television.
